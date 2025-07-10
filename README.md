@@ -145,9 +145,9 @@ Este repositorio está en constante evolución. Las contribuciones son bienvenid
 ## 📞 Contacto
 
 **Prof. Matias Barreto**  
-📧 Email: matias.barreto@ifts24.edu.ar  
+📧 Email: matiasbarreto@gmail.com  
 💼 LinkedIn: [linkedin.com/in/matiasbarreto](https://linkedin.com/in/matiasbarreto)  
-🌐 GitHub: [github.com/matiasbarreto](https://github.com/matiasbarreto)
+🌐 GitHub: [github.com/matiasbarreto](https://github.com/mattbarreto)
 
 ## 📄 Licencia
 
@@ -162,5 +162,3 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 ---
 
 ⭐ **Si este repositorio te resulta útil, no olvides darle una estrella!**
-
-*"El procesamiento del lenguaje natural es el puente entre la comunicación humana y la comprensión artificial. Este curso te dará las herramientas para construir ese puente."* - Matias Barreto
