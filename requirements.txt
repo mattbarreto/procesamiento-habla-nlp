@@ -1,0 +1,64 @@
+# Procesamiento de Habla NLP - Requirements
+# Prof. Matias Barreto - Marzo-Junio 2025
+
+# Core Data Science
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+scipy>=1.7.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+tensorflow>=2.8.0
+keras>=2.8.0
+torch>=1.11.0
+torchvision>=0.12.0
+
+# NLP Libraries
+nltk>=3.7
+spacy>=3.4.0
+gensim>=4.1.0
+transformers>=4.15.0
+datasets>=2.0.0
+tokenizers>=0.11.0
+
+# HuggingFace Ecosystem
+accelerate>=0.15.0
+evaluate>=0.3.0
+sentencepiece>=0.1.96
+
+# Web Scraping
+requests>=2.27.0
+beautifulsoup4>=4.10.0
+selenium>=4.1.0
+scrapy>=2.5.0
+
+# Interactive Tools
+gradio>=3.0.0
+streamlit>=1.8.0
+jupyter>=1.0.0
+ipywidgets>=7.6.0
+
+# Visualization
+plotly>=5.6.0
+wordcloud>=1.8.0
+bokeh>=2.4.0
+
+# Google AI
+google-generativeai>=0.3.0
+google-cloud-aiplatform>=1.12.0
+
+# OpenAI
+openai>=0.27.0
+
+# Utilities
+tqdm>=4.62.0
+python-dotenv>=0.19.0
+pyyaml>=6.0
+pillow>=8.3.0
+
+# Spanish Language Models
+# Run after installation:
+# python -m spacy download es_core_news_sm
+# python -m spacy download es_core_news_md
