@@ -147,7 +147,7 @@ Este repositorio está en constante evolución. Las contribuciones son bienvenid
 **Prof. Matias Barreto**  
 📧 Email: matiasbarreto@gmail.com  
 💼 LinkedIn: [linkedin.com/in/matiasbarreto](https://linkedin.com/in/matiasbarreto)  
-🌐 GitHub: [github.com/matiasbarreto](https://github.com/mattbarreto)
+🌐 GitHub: [github.com/mattbarreto](https://github.com/mattbarreto)
 
 ## 📄 Licencia
 
